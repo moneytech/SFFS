@@ -1,4 +1,4 @@
-# Simple Fuse File System (SSFS)
+# Simple Fuse File System (SFFS)
 
 A simple File System implemented with FUSE (Filesystem in Userspace)
 
